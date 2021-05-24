@@ -29,3 +29,8 @@ import numpy as np
 from ctypes import cast, POINTER
 from comtypes import CLSCTX_ALL
 from pycaw.pycaw import AudioUtilities, IAudioEndpointVolume
+
+
+References can be found here as well as tutorials on how to set up working prototype: 
+https://www.youtube.com/c/MurtazasWorkshopRoboticsandAI
+https://google.github.io/mediapipe/solutions/hands.html
